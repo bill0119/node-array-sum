@@ -1,0 +1,51 @@
+{
+  "_from": "node-array-sum",
+  "_id": "node-array-sum@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-/ijQh1vBTgogpVuOhXNaZCIqYaQ=",
+  "_location": "/node-array-sum",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "node-array-sum",
+    "name": "node-array-sum",
+    "escapedName": "node-array-sum",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-array-sum/-/node-array-sum-1.0.3.tgz",
+  "_shasum": "fe28d0875bc14e0a20a55b8e85735a64222a61a4",
+  "_spec": "node-array-sum",
+  "_where": "/Users/bill/github/node_modules",
+  "author": {
+    "name": "Bill Li"
+  },
+  "bugs": {
+    "url": "https://github.com/bill0119/node-array-sum/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "calculate sum of array",
+  "homepage": "https://github.com/bill0119/node-array-sum#readme",
+  "keywords": [
+    "array",
+    "sum"
+  ],
+  "license": "MIT",
+  "main": "array-sum.js",
+  "name": "node-array-sum",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bill0119/node-array-sum.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
